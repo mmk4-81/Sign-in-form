@@ -24,3 +24,11 @@ input,button{
     outline: none;
     border-radius: 50px;
 }
+.container{
+    position: relative;
+    width: 400px;
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
