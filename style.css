@@ -5,3 +5,13 @@
     color: #ddd;
     font-family: 'Montserrat',sans-serif;
 }
+
+body{
+    min-height: 100vh;
+    font-size: 16px;
+    background: url(bg.png) no-repeat center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
