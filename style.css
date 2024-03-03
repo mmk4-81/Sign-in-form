@@ -110,3 +110,17 @@ form{
     font-size: 1em;
     padding: 0 24px;
 }
+.form-control input::placeholder{
+    color: #cbcbcb;
+}
+
+button[type="submit"]{
+    background-color: #ecbb08;
+    color: #023262;
+    font-size: 1.3em;
+    font-weight: bolder;
+    letter-spacing: 1px;
+    cursor: pointer;
+    margin: 16px 0;
+    transition:  background-color 0.3s;
+}
