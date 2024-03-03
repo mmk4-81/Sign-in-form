@@ -89,3 +89,18 @@ i.fa-github{
     border-top: 1px dashed;
     margin: 24px;
 }
+
+/*login form*/
+form{
+    width: 100%;
+}
+
+.form-control{
+    margin-bottom: 24px;
+}
+
+.form-control label{
+    display: block;
+    letter-spacing: 0.5px;
+    margin-bottom: 8px;
+}
