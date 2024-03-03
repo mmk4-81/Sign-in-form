@@ -104,3 +104,9 @@ form{
     letter-spacing: 0.5px;
     margin-bottom: 8px;
 }
+
+.form-control input{
+    letter-spacing: 0.5px;
+    font-size: 1em;
+    padding: 0 24px;
+}
