@@ -60,3 +60,19 @@ input,button{
 .social-login button:hover{
    background-color: rgba(255,255,255,0.3); 
 }
+
+.social-login i{
+    width: 36px;
+    height: 36px;
+    background-color: #fff;
+    border-radius: 50%;
+    font-size: 1.4em;
+    margin: 10px;
+}
+i.fa-linkedin{
+    color: #3b5998;
+}
+
+i.fa-github{
+    color: #333333;
+}
