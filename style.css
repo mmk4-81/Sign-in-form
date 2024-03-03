@@ -124,3 +124,7 @@ button[type="submit"]{
     margin: 16px 0;
     transition:  background-color 0.3s;
 }
+
+button[type="submit"]:hover{
+    background-color:#ffc800 ;
+}
