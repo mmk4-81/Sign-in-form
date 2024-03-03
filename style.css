@@ -38,3 +38,21 @@ input,button{
     letter-spacing: 1px;
     margin-bottom: 24px;
 }
+
+.social-login
+,.social-login button,
+.social-login i{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.social-login button{
+    justify-content: flex-start;
+    width: 160px;
+    margin: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.7px;
+    cursor: pointer;
+    transition:  background-color 0.3s;
+}
